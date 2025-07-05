@@ -8,7 +8,7 @@ export default function Profissional() {
         <Text style={styles.linha}></Text>
         <Text style={styles.texto}>
           Ensino Médio com curso Técnico Integrado em Desenvolvimento de Sistemas. 
-          Instituição: Colégio Estadual Cívico Militar Professor Becker e Silva — Conclusão prevista: Dezembro de 2025.
+          Instituição: Escola Estadual — Conclusão prevista: Dezembro de 2025.
         </Text>
       </View>
 
@@ -16,7 +16,7 @@ export default function Profissional() {
         <Text style={styles.titulo}>Competências Técnicas</Text>
         <Text style={styles.linha}></Text>
         <Text style={styles.texto}>
-          Familiaridade com as linguagens HTML, CSS, JavaScript, Python e SQL. Familiaridade com desenvolvimento de interfaces e lógica de programação.
+          Domínio das linguagens HTML, CSS, JavaScript, Python e SQL. Familiaridade com desenvolvimento de interfaces e lógica de programação.
         </Text>
       </View>
 
@@ -24,7 +24,7 @@ export default function Profissional() {
         <Text style={styles.titulo}>Habilidades Comportamentais</Text>
         <Text style={styles.linha}></Text>
         <Text style={styles.texto}>
-          Autodidata, com excelente capacidade de aprendizado, organização, disciplina, pensamento analítico, resolução de problemas e boa comunicação interpessoal.
+          Profissional autodidata, com excelente capacidade de aprendizado, organização, disciplina, pensamento analítico, resolução de problemas e boa comunicação interpessoal.
         </Text>
       </View>
 
@@ -38,11 +38,10 @@ export default function Profissional() {
       </View>
 
       <View style={styles.card}>
-        <Text style={styles.titulo}>Experiência Profissional</Text>
+        <Text style={styles.titulo}>Objetivo Profissional</Text>
         <Text style={styles.linha}></Text>
         <Text style={styles.texto}>
-        Desenvolvedora Júnior | Fintel Sistemas Fevereiro de 2025 – Maio de 2025{"\n"}
-        Atuei contribuindo para o desenvolvimento e manutenção de sistemas, garantindo soluções eficientes para as necessidades dos clientes. Trabalhei em equipe para otimizar processos e aprimorar funcionalidades, sempre buscando inovação e melhoria contínua.
+          Busco uma oportunidade de estágio ou posição júnior na área de tecnologia, onde eu possa aplicar meus conhecimentos e crescer profissionalmente em um ambiente inovador.
         </Text>
       </View>
     </ScrollView>
